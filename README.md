@@ -1,6 +1,5 @@
 # ClickWars_AhmetCanCinar
 
-MobileGameClickWars
 Unity ile geliştirdiğim mobil Click Wars
 
 Konu Adı: Unity 2D ile İki Kişilik Mobil Oyun
